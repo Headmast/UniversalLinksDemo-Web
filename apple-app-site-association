@@ -5,10 +5,6 @@
            {
                "appID": "B9639RHZFT.ru.surfstudio.okey",
                "paths": ["*"]
-           },
-           {
-               "appID": "NWYAZN9LPP.ru.surf.okey",
-               "paths": ["*"]
            }
        ]
     }
